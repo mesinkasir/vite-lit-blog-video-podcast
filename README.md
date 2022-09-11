@@ -4,6 +4,8 @@ Demo blue color : [https://mesinkasircafe.web.app](https://mesinkasircafe.web.ap
 
 Demo standard : [https://mesinkasirbarcode.web.app](https://mesinkasirbarcode.web.app/)
 
+Demo with multi page : [https://programresto.web.app](https://programresto.web.app/)
+
 Documentation : [https://www.hockeycomputindo.com/2022/09/built-website-video-blog-and-podcast.html](https://www.hockeycomputindo.com/2022/09/built-website-video-blog-and-podcast.html)
 
 Video demo : [https://www.youtube.com/watch?v=SwikkYbrtdU](https://www.youtube.com/watch?v=SwikkYbrtdU)
@@ -34,6 +36,8 @@ Recipe :
 Demo blue color : [https://mesinkasircafe.web.app](https://mesinkasircafe.web.app/)
 
 Demo standard : [https://mesinkasirbarcode.web.app](https://mesinkasirbarcode.web.app/)
+
+Demo with multi page : [https://programresto.web.app](https://programresto.web.app/)
 
 Documentation : [https://www.hockeycomputindo.com/2022/09/built-website-video-blog-and-podcast.html](https://www.hockeycomputindo.com/2022/09/built-website-video-blog-and-podcast.html)
 
