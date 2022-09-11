@@ -91,7 +91,7 @@ export class DataFitur extends LitElement {
                 }</h3></div>
                 <div><h4 class="slim"><a title="${
                   this.detail.description
-                }" href="/start.html">${this.detail.description}</a></h4></div>
+                }" href="/">${this.detail.description}</a></h4></div>
               </div>
             </div>
             <div
