@@ -4,7 +4,11 @@ Demo blue color : [https://mesinkasircafe.web.app](https://mesinkasircafe.web.ap
 
 Demo standard : [https://mesinkasirbarcode.web.app](https://mesinkasirbarcode.web.app/)
 
-Documentation : Soon......
+Documentation : [https://www.hockeycomputindo.com/2022/09/built-website-video-blog-and-podcast.html](https://www.hockeycomputindo.com/2022/09/built-website-video-blog-and-podcast.html)
+
+Video demo : [https://www.youtube.com/watch?v=SwikkYbrtdU](https://www.youtube.com/watch?v=SwikkYbrtdU)
+
+---
 
 Lighthouse report
 
@@ -25,8 +29,12 @@ Recipe :
 - Vite
 - Youtube Embed
 
-Install
+---
 
-`npm i && npm run dev`
+Demo blue color : [https://mesinkasircafe.web.app](https://mesinkasircafe.web.app/)
 
-open localhost:5173
+Demo standard : [https://mesinkasirbarcode.web.app](https://mesinkasirbarcode.web.app/)
+
+Documentation : [https://www.hockeycomputindo.com/2022/09/built-website-video-blog-and-podcast.html](https://www.hockeycomputindo.com/2022/09/built-website-video-blog-and-podcast.html)
+
+Video demo : [https://www.youtube.com/watch?v=SwikkYbrtdU](https://www.youtube.com/watch?v=SwikkYbrtdU)
