@@ -1,3 +1,12 @@
-# meskascafe-vite-bohd9i
+# Podcast Video Blog website template
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/meskascafe-vite-bohd9i)
+Demo blue color : [https://mesinkasircafe.web.app](https://mesinkasircafe.web.app/)
+
+Documentation : Soon......
+
+Recipe :
+
+- Lit html
+- Lit Element
+- Vite
+- Youtube Embed
