@@ -52,7 +52,8 @@ export class Footer extends LitElement {
       (this.developer = '👩‍🚀 creativitas'),
       (this.firebaseurl = 'https://firebase.google.com/'),
       (this.ideurl = 'https://stackblitz.com/'),
-      (this.giturl = 'https://github.com/'),
+      (this.giturl =
+        'https://github.com/mesinkasir/vite-lit-blog-video-podcast'),
       (this.viteurl = 'https://vitejs.dev/'),
       (this.liturl = 'https://lit.dev/'),
       (this.devurl =
