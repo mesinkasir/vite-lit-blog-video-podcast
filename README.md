@@ -2,6 +2,8 @@
 
 Demo blue color : [https://mesinkasircafe.web.app](https://mesinkasircafe.web.app/)
 
+Demo black dark : [https://mesinkasirrestoran.web.app](https://mesinkasirrestoran.web.app/)
+
 Demo standard : [https://mesinkasirbarcode.web.app](https://mesinkasirbarcode.web.app/)
 
 Demo with multi page : [https://programresto.web.app](https://programresto.web.app/)
@@ -34,6 +36,8 @@ Recipe :
 ---
 
 Demo blue color : [https://mesinkasircafe.web.app](https://mesinkasircafe.web.app/)
+
+Demo black dark : [https://mesinkasirrestoran.web.app](https://mesinkasirrestoran.web.app/)
 
 Demo standard : [https://mesinkasirbarcode.web.app](https://mesinkasirbarcode.web.app/)
 
