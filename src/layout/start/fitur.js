@@ -162,7 +162,7 @@ export const data = [
       'Hubungi kami untuk informasi dan konsultasi mengenai mesin kasir.',
     content:
       'Jangan ragu untuk menghubungi team dan staff kami untuk memberikan informasi dan konsultasi mengenai mesin kasir barcode yang cocok untuk bisnis usaha mu.',
-    text1: 'Whatsapp : +6285646104747',
+    text1: 'Whatsapp : +62895339403223',
     text2: 'Call us : +62895339403223',
     text3: 'Email : axcora@gmail.com',
     video: 'mm-oHbkulWA',
